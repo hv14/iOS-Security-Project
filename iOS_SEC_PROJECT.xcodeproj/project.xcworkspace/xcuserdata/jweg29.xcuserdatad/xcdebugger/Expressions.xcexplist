@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Session.upload(NSURL, path : String, completionHandler : (Bool, NSError?) -&gt; ()) -&gt; ():Session.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "operation.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
